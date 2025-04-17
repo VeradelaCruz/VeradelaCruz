@@ -50,18 +50,24 @@ I’m eager to expand my knowledge and skills through collaborative projects and
 Feel free to reach out to me on any of the platforms below!
 
 <p align="center">
-  <div align="center" class="icons-social">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/vera_dev">
-      <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" style="margin-left: 10px;">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/brumaidana/">
-      <img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="mailto:veracruz.dev@yahoo.com">
-      <img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" style=" width:35px; height:43px;">
-    </a>
-  </div>
+  <a href="https://www.instagram.com/versdelacruz" target="_blank">
+    <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-instagram-old-32.png" width="48" height="48" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/brumaidana/" target="_blank">
+    <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-facebook-32%20(1).png" width="48" height="48" alt="Facebook"/>
+  </a>
+  <a href="mailto:maidanabru@yahoo.com.ar" target="_blank">
+    <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-email-32%20(1).png" width="48" height="48" alt="Email"/>
+  </a>
+  <a href="https://github.com/VeradelaCruz" target="_blank">
+    <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-git-32.png" width="48" height="48" alt="GitHub"/>
+  </a>
+  <a href="https://discord.com/users/tu_usuario" target="_blank">
+    <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-discord-new-32.png" width="48" height="48" alt="Discord"/>
+  </a>
 </p>
+
+
 
 
 
