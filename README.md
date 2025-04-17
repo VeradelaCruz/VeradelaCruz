@@ -2,7 +2,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
 
-<img align="right" width=300px alt="Unicorn" src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/Totoro.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/Pixel%20Art%20GIFs%20-%20Find%20%26%20Share%20on%20GIPHY.gif" />
 
 ## <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif" width="40px">&nbsp;***About me***
 
