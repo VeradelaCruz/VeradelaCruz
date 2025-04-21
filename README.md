@@ -1,8 +1,12 @@
 ## Hey there <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-star-32.png" width="20"/> , I'm Vera — coding <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-leaf-32.png" width="20"/>, snacking <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-coffee-to-go-32.png" width="20"/>, and vibing through life <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-oak-leaf-32.png" width="20"/>
 
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=VeradelaCruz.VeradelaCruz)
-[![GitHub followers](https://img.shields.io/github/followers/VeradelaCruz.svg?style=social&label=Follow)](https://github.com/VeradelaCruz?tab=followers)<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-Welcome!-8BC34A?style=flat-square&logo=Treehouse&logoColor=white" />
+  <a href="https://github.com/VeradelaCruz?tab=followers" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-%F0%9F%91%8D-795548?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <img align="right" width=300px alt="Unicorn" src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/Pixel%20Art%20GIFs%20-%20Find%20%26%20Share%20on%20GIPHY.gif" />
 
