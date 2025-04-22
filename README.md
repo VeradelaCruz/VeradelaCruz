@@ -40,9 +40,7 @@ I am a backend development student, currently working on creating my own project
 
 Although my professional experience is still growing, I’ve worked on several personal and academic projects that have allowed me to apply and expand my skills in programming and software development. Some of the projects I’ve completed include:
 
-- **[Employee Management System with Microservices](#)**: A project where I used Spring Boot, Spring Cloud, and Docker to develop a microservices architecture. This project helped me learn about scalable architecture and working with databases like MySQL and PostgreSQL. 🚀
-  
-- **[Shopping Cart Application](#)**: Developed a RESTful API using Spring Boot to manage products, shopping carts, and payments. I learned to work with databases, validate data, and use tools like Postman for API testing. 🛒💳
+- **[Online Shopping System with Microservices](#)**: An e-commerce project built using Java, Spring Boot, and Microservices architecture. The system enables browsing products, managing shopping carts, processing payments, and tracking purchases. This project taught me how to design scalable systems with microservices and handle integrations with MySQL for database management. 🛍️💻
   
 - **[Web App with Frontend & Backend](#)**: Created a full-stack web application using HTML, CSS, JavaScript, and Spring Boot. This project helped me understand how to integrate the frontend with the backend, and gave me insight into the complete lifecycle of a web application. 🌐💻
 
