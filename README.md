@@ -1,3 +1,6 @@
+<img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/ezgif-87dcc79db3a9f0.gif" width="100%" height="200px" alt="Descripción del GIF">
+
+
 ## Hey there <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-star-32.png" width="20"/> , I'm Vera — coding <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-leaf-32.png" width="20"/>, snacking <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-coffee-to-go-32.png" width="20"/>, and vibing through life <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-oak-leaf-32.png" width="20"/>
 
 <p align="center">
