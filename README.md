@@ -1,10 +1,9 @@
 ## Hey there <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-star-32.png" width="20"/> , I'm Vera — coding <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-leaf-32.png" width="20"/>, snacking <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-coffee-to-go-32.png" width="20"/>, and vibing through life <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-oak-leaf-32.png" width="20"/>
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-Welcome!-8BC34A?style=flat-square&logo=Treehouse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-A5D6A7?style=flat-square&logo=leaflet&logoColor=white" />
   <a href="https://github.com/VeradelaCruz?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-%F0%9F%91%8D-795548?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let’s%20connect%20on%20GitHub-8D6E63?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
