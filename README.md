@@ -30,16 +30,26 @@ I am a backend development student, currently working on creating my own project
 
 ![Java](https://img.shields.io/badge/Java-%234C9C2E.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%234C3C3C.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
+<!-- Spring badges juntos -->
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-%233A8A41.svg?style=for-the-badge&logo=springboot&logoColor=white) 
+![SpringBoot Cache](https://img.shields.io/badge/SpringBoot_Cache-%235A823D.svg?style=for-the-badge&logo=springboot&logoColor=white) 
+![SpringCloud](https://img.shields.io/badge/Spring_Cloud-%233C5A4B.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![API_Gateway](https://img.shields.io/badge/API_Gateway-%233A4C5A.svg?style=for-the-badge&logo=cloudflare&logoColor=white) 
+![Feign_Client](https://img.shields.io/badge/Feign_Client-%235A3C4B.svg?style=for-the-badge&logo=swagger&logoColor=white) 
+![Eureka_Server](https://img.shields.io/badge/Eureka_Server-%234B3A5A.svg?style=for-the-badge&logo=netflix&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-%234D3B2D.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23232A2A.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-%232E3C2E.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%236B4F2F.svg?style=for-the-badge&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-%234B6B3C.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-%23C25B2A.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%234B5B41.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23294D29.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234C6B2E.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![JUnit](https://img.shields.io/badge/JUnit-%23A74C4C.svg?style=for-the-badge&logo=junit&logoColor=white) 
 ![Mockito](https://img.shields.io/badge/Mockito-%233A5A3B.svg?style=for-the-badge&logo=mockito&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%234B3C5A.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 
 ## <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-tree-32.png" width="30"/> Experience
