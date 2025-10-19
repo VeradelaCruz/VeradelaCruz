@@ -18,7 +18,10 @@ I am a backend development student, currently working on creating my own project
 - <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-maple-leaf-32.png" width="20"/> I’m currently learning ...
   - Java
   - Github
-  - MySQL
+  - Mongo DB
+  - Spring Boot
+  - Jenkins
+  - Docker
 - <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-coffee-32.png" width="20"/> I’m looking forward to collaborate on open source projects.
 - <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-message-32.png" width="20"/> Ask me about anything, I am happy to help, only if the ball is in my court! <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-three-leaf-clover-32.png" width="20"/> <br>
 -Outside of programming, <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-heart-balloon-32.png" width="20"/> I love watching anime, <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-plane-32.png" width="20"/> traveling, <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-musical-note-32.png" width="20"/> listening to music, <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-paint-32.png" width="20"/> drawing, and <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-chocolate-32.png" width="20"/> eating chocolate.
@@ -39,15 +42,17 @@ I am a backend development student, currently working on creating my own project
 ![Mockito](https://img.shields.io/badge/Mockito-%233A5A3B.svg?style=for-the-badge&logo=mockito&logoColor=white)
 
 
-## <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-tree-32.png" width="30"/>  Experience
+## <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-tree-32.png" width="30"/> Experience
 
-Although my professional experience is still growing, I’ve worked on several personal and academic projects that have allowed me to apply and expand my skills in programming and software development. Some of the projects I’ve completed include:
+Although my professional experience is still growing, I have developed several personal and academic projects that allowed me to apply and expand my skills in programming and software development. Some of the most notable projects include:
 
-- **[Online Shopping System with Microservices](#)**: An e-commerce project built using Java, Spring Boot, and Microservices architecture. The system enables browsing products, managing shopping carts, processing payments, and tracking purchases. This project taught me how to design scalable systems with microservices and handle integrations with MySQL for database management. 🛍️💻
-  
-- **[Web App with Frontend & Backend](#)**: Created a full-stack web application using HTML, CSS, JavaScript, and Spring Boot. This project helped me understand how to integrate the frontend with the backend, and gave me insight into the complete lifecycle of a web application. 🌐💻
+- **[Amusement Park App](https://github.com/your-username/amusement-park-app)**: A complete management system for an amusement park. Built with Java, Spring Boot, and MongoDB, it allows administrators to manage visitors, attractions, tickets, and revenue statistics. This project taught me to design scalable systems and integrate databases effectively. 🎢💻
 
-I’m eager to expand my knowledge and skills through collaborative projects and contribute to open-source software development. 🤝
+- **[Geo Data Science](https://github.com/your-username/geodata-service)**: A microservice for managing geological data, built with Java, Spring Boot, and MongoDB. Features include managing geologists, regions, and projects, with proper unit and integration testing. Containerized using Docker Compose. 🌍🗂️
+
+- **[Mini Netflix](https://github.com/your-username/mini-netflix)**: A simplified Netflix clone focusing on movie management, categories, and personalized lists. Built with Java, Spring Boot, and MongoDB. This project helped me practice API design, data relationships, and unit/integration testing. 🎬🗂️
+
+I am eager to continue learning and contributing to collaborative projects, including open-source software development. 🤝
 
 ## <img src="https://github.com/VeradelaCruz/VeradelaCruz/blob/main/icons8-phone-32.png" width="30"/> Connect with me
 
